@@ -1,0 +1,7 @@
+C:\Users\ZOE PC\Desktop\2023\asztali\talaldKi\talaldKi\bin\Debug\talaldKi.exe.config
+C:\Users\ZOE PC\Desktop\2023\asztali\talaldKi\talaldKi\bin\Debug\talaldKi.exe
+C:\Users\ZOE PC\Desktop\2023\asztali\talaldKi\talaldKi\bin\Debug\talaldKi.pdb
+C:\Users\ZOE PC\Desktop\2023\asztali\talaldKi\talaldKi\obj\Debug\talaldKi.csproj.AssemblyReference.cache
+C:\Users\ZOE PC\Desktop\2023\asztali\talaldKi\talaldKi\obj\Debug\talaldKi.csproj.CoreCompileInputs.cache
+C:\Users\ZOE PC\Desktop\2023\asztali\talaldKi\talaldKi\obj\Debug\talaldKi.exe
+C:\Users\ZOE PC\Desktop\2023\asztali\talaldKi\talaldKi\obj\Debug\talaldKi.pdb

@@ -1,0 +1,7 @@
+C:\Users\ZOE PC\Desktop\2023\asztali\atlag\atlag\bin\Debug\atlag.exe.config
+C:\Users\ZOE PC\Desktop\2023\asztali\atlag\atlag\bin\Debug\atlag.exe
+C:\Users\ZOE PC\Desktop\2023\asztali\atlag\atlag\bin\Debug\atlag.pdb
+C:\Users\ZOE PC\Desktop\2023\asztali\atlag\atlag\obj\Debug\atlag.csproj.AssemblyReference.cache
+C:\Users\ZOE PC\Desktop\2023\asztali\atlag\atlag\obj\Debug\atlag.csproj.CoreCompileInputs.cache
+C:\Users\ZOE PC\Desktop\2023\asztali\atlag\atlag\obj\Debug\atlag.exe
+C:\Users\ZOE PC\Desktop\2023\asztali\atlag\atlag\obj\Debug\atlag.pdb

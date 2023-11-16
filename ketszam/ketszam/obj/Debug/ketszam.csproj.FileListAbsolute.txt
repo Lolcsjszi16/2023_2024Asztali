@@ -1,0 +1,7 @@
+C:\Users\ZOE PC\Desktop\2023-2024\asztali\ketszam\ketszam\bin\Debug\ketszam.exe.config
+C:\Users\ZOE PC\Desktop\2023-2024\asztali\ketszam\ketszam\bin\Debug\ketszam.exe
+C:\Users\ZOE PC\Desktop\2023-2024\asztali\ketszam\ketszam\bin\Debug\ketszam.pdb
+C:\Users\ZOE PC\Desktop\2023-2024\asztali\ketszam\ketszam\obj\Debug\ketszam.csproj.AssemblyReference.cache
+C:\Users\ZOE PC\Desktop\2023-2024\asztali\ketszam\ketszam\obj\Debug\ketszam.csproj.CoreCompileInputs.cache
+C:\Users\ZOE PC\Desktop\2023-2024\asztali\ketszam\ketszam\obj\Debug\ketszam.exe
+C:\Users\ZOE PC\Desktop\2023-2024\asztali\ketszam\ketszam\obj\Debug\ketszam.pdb

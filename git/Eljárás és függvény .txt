@@ -1,0 +1,40 @@
+Eljárás és függvény 
+
+A különbség az eljárás (procedure) és a függvény (function) között a visszatérési érték jelenlétében van. Az eljárás egy olyan blokk kód, amely végrehajt egy sor utasítást, de nincs visszatérési értéke. A függvény viszont egy blokk kód, amely végrehajtja a benne lévő utasításokat, majd egy értéket ad vissza a hívó kódnak.
+
+Eljárás:
+
+using System;
+
+class Program
+{
+    static void Hello()
+    {
+        Console.WriteLine("Hello, World!");
+    }
+
+    static void Main()
+    {
+        Hello(); // Eljárás hívása
+    }
+}
+
+
+Függvény:
+
+using System;
+
+class Program
+{
+    static int Add(int a, int b)
+    {
+        return a + b;
+    }
+
+    static void Main()
+    {
+        int result = Add(3, 5); // Függvény hívása, az eredményet egy változóban tároljuk
+        Console.WriteLine("Az összeg: " + result);
+    }
+}
+

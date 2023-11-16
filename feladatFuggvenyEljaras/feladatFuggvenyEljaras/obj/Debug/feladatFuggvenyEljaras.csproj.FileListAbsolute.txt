@@ -1,0 +1,7 @@
+C:\Users\ZOE PC\Desktop\2023\asztali\feladatFuggvenyEljaras\feladatFuggvenyEljaras\bin\Debug\feladatFuggvenyEljaras.exe.config
+C:\Users\ZOE PC\Desktop\2023\asztali\feladatFuggvenyEljaras\feladatFuggvenyEljaras\bin\Debug\feladatFuggvenyEljaras.exe
+C:\Users\ZOE PC\Desktop\2023\asztali\feladatFuggvenyEljaras\feladatFuggvenyEljaras\bin\Debug\feladatFuggvenyEljaras.pdb
+C:\Users\ZOE PC\Desktop\2023\asztali\feladatFuggvenyEljaras\feladatFuggvenyEljaras\obj\Debug\feladatFuggvenyEljaras.csproj.AssemblyReference.cache
+C:\Users\ZOE PC\Desktop\2023\asztali\feladatFuggvenyEljaras\feladatFuggvenyEljaras\obj\Debug\feladatFuggvenyEljaras.csproj.CoreCompileInputs.cache
+C:\Users\ZOE PC\Desktop\2023\asztali\feladatFuggvenyEljaras\feladatFuggvenyEljaras\obj\Debug\feladatFuggvenyEljaras.exe
+C:\Users\ZOE PC\Desktop\2023\asztali\feladatFuggvenyEljaras\feladatFuggvenyEljaras\obj\Debug\feladatFuggvenyEljaras.pdb

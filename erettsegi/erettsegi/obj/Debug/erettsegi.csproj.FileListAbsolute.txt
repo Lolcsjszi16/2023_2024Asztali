@@ -1,0 +1,7 @@
+C:\Users\ZOE PC\Desktop\2023\asztali\erettsegi\erettsegi\bin\Debug\erettsegi.exe.config
+C:\Users\ZOE PC\Desktop\2023\asztali\erettsegi\erettsegi\bin\Debug\erettsegi.exe
+C:\Users\ZOE PC\Desktop\2023\asztali\erettsegi\erettsegi\bin\Debug\erettsegi.pdb
+C:\Users\ZOE PC\Desktop\2023\asztali\erettsegi\erettsegi\obj\Debug\erettsegi.csproj.AssemblyReference.cache
+C:\Users\ZOE PC\Desktop\2023\asztali\erettsegi\erettsegi\obj\Debug\erettsegi.csproj.CoreCompileInputs.cache
+C:\Users\ZOE PC\Desktop\2023\asztali\erettsegi\erettsegi\obj\Debug\erettsegi.exe
+C:\Users\ZOE PC\Desktop\2023\asztali\erettsegi\erettsegi\obj\Debug\erettsegi.pdb

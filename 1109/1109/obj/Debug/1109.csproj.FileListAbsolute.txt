@@ -1,0 +1,7 @@
+C:\Users\ZOE PC\Desktop\2023\asztali\1109\1109\bin\Debug\1109.exe.config
+C:\Users\ZOE PC\Desktop\2023\asztali\1109\1109\bin\Debug\1109.exe
+C:\Users\ZOE PC\Desktop\2023\asztali\1109\1109\bin\Debug\1109.pdb
+C:\Users\ZOE PC\Desktop\2023\asztali\1109\1109\obj\Debug\1109.csproj.AssemblyReference.cache
+C:\Users\ZOE PC\Desktop\2023\asztali\1109\1109\obj\Debug\1109.csproj.CoreCompileInputs.cache
+C:\Users\ZOE PC\Desktop\2023\asztali\1109\1109\obj\Debug\1109.exe
+C:\Users\ZOE PC\Desktop\2023\asztali\1109\1109\obj\Debug\1109.pdb

@@ -1,0 +1,7 @@
+C:\Users\ZOE PC\Desktop\2023\asztali\randomszam\randomszam\bin\Debug\randomszam.exe.config
+C:\Users\ZOE PC\Desktop\2023\asztali\randomszam\randomszam\bin\Debug\randomszam.exe
+C:\Users\ZOE PC\Desktop\2023\asztali\randomszam\randomszam\bin\Debug\randomszam.pdb
+C:\Users\ZOE PC\Desktop\2023\asztali\randomszam\randomszam\obj\Debug\randomszam.csproj.AssemblyReference.cache
+C:\Users\ZOE PC\Desktop\2023\asztali\randomszam\randomszam\obj\Debug\randomszam.csproj.CoreCompileInputs.cache
+C:\Users\ZOE PC\Desktop\2023\asztali\randomszam\randomszam\obj\Debug\randomszam.exe
+C:\Users\ZOE PC\Desktop\2023\asztali\randomszam\randomszam\obj\Debug\randomszam.pdb

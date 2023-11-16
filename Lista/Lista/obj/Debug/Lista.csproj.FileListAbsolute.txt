@@ -1,0 +1,7 @@
+C:\Users\ZOE PC\Desktop\2023\asztali\Lista\Lista\bin\Debug\Lista.exe.config
+C:\Users\ZOE PC\Desktop\2023\asztali\Lista\Lista\bin\Debug\Lista.exe
+C:\Users\ZOE PC\Desktop\2023\asztali\Lista\Lista\bin\Debug\Lista.pdb
+C:\Users\ZOE PC\Desktop\2023\asztali\Lista\Lista\obj\Debug\Lista.csproj.AssemblyReference.cache
+C:\Users\ZOE PC\Desktop\2023\asztali\Lista\Lista\obj\Debug\Lista.csproj.CoreCompileInputs.cache
+C:\Users\ZOE PC\Desktop\2023\asztali\Lista\Lista\obj\Debug\Lista.exe
+C:\Users\ZOE PC\Desktop\2023\asztali\Lista\Lista\obj\Debug\Lista.pdb
