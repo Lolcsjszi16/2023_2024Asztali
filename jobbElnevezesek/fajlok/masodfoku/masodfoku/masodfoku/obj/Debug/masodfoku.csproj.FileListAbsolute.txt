@@ -1,0 +1,14 @@
+C:\Users\ZOE PC\Desktop\2023-2024\asztali\masodfoku\masodfoku\bin\Debug\masodfoku.exe.config
+C:\Users\ZOE PC\Desktop\2023-2024\asztali\masodfoku\masodfoku\bin\Debug\masodfoku.exe
+C:\Users\ZOE PC\Desktop\2023-2024\asztali\masodfoku\masodfoku\bin\Debug\masodfoku.pdb
+C:\Users\ZOE PC\Desktop\2023-2024\asztali\masodfoku\masodfoku\obj\Debug\masodfoku.csproj.AssemblyReference.cache
+C:\Users\ZOE PC\Desktop\2023-2024\asztali\masodfoku\masodfoku\obj\Debug\masodfoku.csproj.CoreCompileInputs.cache
+C:\Users\ZOE PC\Desktop\2023-2024\asztali\masodfoku\masodfoku\obj\Debug\masodfoku.exe
+C:\Users\ZOE PC\Desktop\2023-2024\asztali\masodfoku\masodfoku\obj\Debug\masodfoku.pdb
+C:\Users\ZOE PC\Desktop\2023\asztali\masodfoku\masodfoku\bin\Debug\masodfoku.exe.config
+C:\Users\ZOE PC\Desktop\2023\asztali\masodfoku\masodfoku\bin\Debug\masodfoku.exe
+C:\Users\ZOE PC\Desktop\2023\asztali\masodfoku\masodfoku\bin\Debug\masodfoku.pdb
+C:\Users\ZOE PC\Desktop\2023\asztali\masodfoku\masodfoku\obj\Debug\masodfoku.csproj.AssemblyReference.cache
+C:\Users\ZOE PC\Desktop\2023\asztali\masodfoku\masodfoku\obj\Debug\masodfoku.csproj.CoreCompileInputs.cache
+C:\Users\ZOE PC\Desktop\2023\asztali\masodfoku\masodfoku\obj\Debug\masodfoku.exe
+C:\Users\ZOE PC\Desktop\2023\asztali\masodfoku\masodfoku\obj\Debug\masodfoku.pdb

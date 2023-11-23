@@ -1,0 +1,7 @@
+C:\Users\ZOE PC\Desktop\2023\asztali\15\15\bin\Debug\15.exe.config
+C:\Users\ZOE PC\Desktop\2023\asztali\15\15\bin\Debug\15.exe
+C:\Users\ZOE PC\Desktop\2023\asztali\15\15\bin\Debug\15.pdb
+C:\Users\ZOE PC\Desktop\2023\asztali\15\15\obj\Debug\15.csproj.AssemblyReference.cache
+C:\Users\ZOE PC\Desktop\2023\asztali\15\15\obj\Debug\15.csproj.CoreCompileInputs.cache
+C:\Users\ZOE PC\Desktop\2023\asztali\15\15\obj\Debug\15.exe
+C:\Users\ZOE PC\Desktop\2023\asztali\15\15\obj\Debug\15.pdb
